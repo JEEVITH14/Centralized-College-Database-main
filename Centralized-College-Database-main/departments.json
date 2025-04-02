@@ -1,0 +1,338 @@
+{
+    "name": "Departments",
+    "children": [
+        {
+            "name": "Computer Science and business systems",
+            "children": [
+                {
+                    "name": "Semster 1",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 2",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 3",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 4",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 5",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 6",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 7",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 8",
+                    "duration": "6 months"
+                }
+            ]
+        },
+        {
+            "name": "Electrical and Electronics Engineering",
+            "children": [
+                {
+                    "name": "Semster 1",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 2",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 3",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 4",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 5",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 6",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 7",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 8",
+                    "duration": "6 months"
+                }
+            ]
+        },
+        {
+            "name": "Electronics and Communication Engineering",
+            "children": [
+                {
+                    "name": "Semster 1",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 2",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 3",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 4",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 5",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 6",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 7",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 8",
+                    "duration": "6 months"
+                }
+            ]
+        },
+        {
+            "name": "Computer Science and Engineering",
+            "children": [
+                {
+                    "name": "Semster 1",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 2",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 3",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 4",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 5",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 6",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 7",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 8",
+                    "duration": "6 months"
+                }
+            ]
+        },
+        {
+            "name": "Computer Science and Engineering and cyber security",
+            "children": [
+                {
+                    "name": "Semster 1",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 2",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 3",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 4",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 5",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 6",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 7",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 8",
+                    "duration": "6 months"
+                }
+            ]
+        },
+        {
+            "name": "Information Technology",
+            "children": [
+                {
+                    "name": "Semster 1",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 2",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 3",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 4",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 5",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 6",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 7",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 8",
+                    "duration": "6 months"
+                }
+            ]
+        },
+        {
+            "name": "Mechanical Engineering",
+            "children": [
+                {
+                    "name": "Semster 1",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 2",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 3",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 4",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 5",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 6",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 7",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 8",
+                    "duration": "6 months"
+                }
+            ]
+        },
+        {
+            "name": "Biomedical Engineering",
+            "children": [
+                {
+                    "name": "Semster 1",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 2",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 3",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 4",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 5",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 6",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 7",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 8",
+                    "duration": "6 months"
+                }
+            ]
+        },
+        {
+            "name": "artificial intelligence and data science",
+            "children": [
+                {
+                    "name": "Semster 1",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 2",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 3",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 4",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 5",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 6",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 7",
+                    "duration": "6 months"
+                },
+                {
+                    "name": "Semster 8",
+                    "duration": "6 months"
+                }
+            ]
+        }
+    ]
+}
